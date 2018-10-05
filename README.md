@@ -1,2 +1,1 @@
-# finalproject
-Final Project #3
+# project3
